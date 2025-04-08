@@ -1,0 +1,15 @@
+psycopg2-binary
+fastapi
+uvicorn
+sqlalchemy
+requests
+alembic
+asyncpg
+greenlet
+httpx
+asyncpg
+pydantic
+python-multipart
+python-dotenv
+pytest
+pytest-asyncio
